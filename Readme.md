@@ -12,7 +12,7 @@ Aby móc zrozumieć zagadnienie pozycjonowania ważne jest przyswojenie sobie po
 
 ## Na czym polega pozycjonowanie? Arcyważna wyszukiwarka Google
 
-[Pozycjonowanie stron](https://www.eactive.pl) najłatwiej można zrozumieć poprzez zapoznanie się z tym, jakie działania obejmuje. Otóż jest to cały wachlarz czynności, które wpływają na działanie oraz postrzeganie przez roboty Google Twojej witryny. Do najważniejszych należą:
+[Pozycjonowanie stron](https://www.eactive.pl/) najłatwiej można zrozumieć poprzez zapoznanie się z tym, jakie działania obejmuje. Otóż jest to cały wachlarz czynności, które wpływają na działanie oraz postrzeganie przez roboty Google Twojej witryny. Do najważniejszych należą:
 
 * **Analiza słów kluczowych**
 
